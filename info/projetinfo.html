@@ -1,0 +1,89 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+  <title>wiki pink</title>
+  <meta name="keywords" content="beginning html,learning">
+  <meta name="description" content="A beginning web page for Web programming class">
+  <style>
+    body {
+        background-color: pink;
+        margin: 0; 
+        padding: 0; 
+    }
+    .blanche {
+        overflow: hidden; /* Clear fix pour étendre autour du contenu flottant */
+        background-color: white;  
+        padding: 10px;
+    }
+    .blanche img {
+        float: left; 
+        margin-right: 10px;
+    }
+    .blanche nav {
+        float: right; /* Aligner les liens à droite */
+    }
+    
+    nav a {
+        color: #000; 
+        text-decoration: none; 
+        margin-right: 10px; 
+    }
+    nav a:hover {
+        text-decoration: underline; 
+    }
+
+    li{display: inline-block;
+        padding: 10px;
+        border: 1px rgb(146, 142, 142) solid}
+    li>a{color:rgb(243, 50, 82)}
+    
+        
+    .l3 {border-top-color:white;
+        border-bottom-color:white;
+        }
+    .l4 {border-top-color:white;
+        border-bottom-color:white;
+        }
+
+    input[type=text] {
+    height: 50px;
+}
+
+
+    .texte {
+        width: 40%; /* Définir la largeur de la zone de texte */
+        height: 60%; /* Définir la hauteur de la zone de texte */
+        position: relative;
+        right:100px;
+        left: 50px;
+    }
+    .image {
+        position: relative;
+        left: 700px;
+        bottom :150px
+    }
+        
+  </style>
+</head>
+<body>
+    <div class="blanche">
+        <a href="projetinfo.html"><img src="wikipink.png" width="200" height="50" alt="Logo"></a>
+        <nav>
+            <ul> 
+                <li class="l3" id="mon-compte-link"><a href="formulairedeconnexion.html">crée un compte</a></li>
+                <li class="l4" id="mon-compte-link"><a href="connexion.php">se connecter</a></li>
+            </ul> 
+        </nav>
+    </div>
+
+    <div class="texte">
+        <h1>Bienvenue sur wiki pink, le site de conseil le plus fiable d'internet.</h1>
+        <p>connectez-vous pouvoir profiter de notre site</p>
+    </div>
+    <div class="image">
+        <img src="images.jpeg" width="400" height="200" alt="image">
+    </div>
+  
+
+</body>
+</html>

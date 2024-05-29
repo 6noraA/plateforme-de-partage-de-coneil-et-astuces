@@ -1,0 +1,11 @@
+{
+    "user_id": "laurent",
+    "titre": "Nettoyage des micro-ondes",
+    "texte": "<p>Le micro-ondes est un appareil pratique mais peut rapidement devenir sale &agrave; cause des &eacute;claboussures de nourriture. Voici une astuce simple pour le nettoyer efficacement :<\/p>\r\n<ol>\r\n<li><strong>Pr&eacute;paration :<\/strong> Remplissez un bol r&eacute;sistant &agrave; la chaleur avec environ 250 ml d'eau. Ajoutez une cuill&egrave;re &agrave; soupe de vinaigre blanc et quelques tranches de citron pour une odeur fra&icirc;che.<\/li>\r\n<li><strong>Chauffage :<\/strong> Placez le bol dans le micro-ondes. Faites chauffer &agrave; haute puissance pendant 5 minutes. La vapeur d'eau m&eacute;lang&eacute;e au vinaigre et au citron va ramollir les r&eacute;sidus de nourriture incrust&eacute;s.<\/li>\r\n<li><strong>Attente :<\/strong> Laissez le bol &agrave; l'int&eacute;rieur du micro-ondes pendant 2 &agrave; 3 minutes suppl&eacute;mentaires apr&egrave;s la fin du chauffage. La vapeur continuera &agrave; agir.<\/li>\r\n<li><strong>Nettoyage :<\/strong> Retirez le bol (attention, il peut &ecirc;tre chaud). Utilisez une &eacute;ponge ou un chiffon propre pour essuyer les parois int&eacute;rieures du micro-ondes. Les r&eacute;sidus devraient s'enlever facilement gr&acirc;ce &agrave; la vapeur.<\/li>\r\n<li><strong>Entretien r&eacute;gulier :<\/strong> Pour &eacute;viter l'accumulation de salet&eacute;, nettoyez le micro-ondes r&eacute;guli&egrave;rement en r&eacute;p&eacute;tant cette op&eacute;ration une fois par semaine ou selon vos besoins.<\/li>\r\n<\/ol>\r\n<p>&nbsp;<\/p>",
+    "media": [
+        {
+            "path": "media\/microonde.jpeg",
+            "type": "image"
+        }
+    ]
+}
